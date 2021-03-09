@@ -1,4 +1,4 @@
-https://github.com/<donizk>/<activity4-donizk>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+![Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # cs203s2021-activity4
 
