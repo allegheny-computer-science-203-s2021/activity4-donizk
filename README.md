@@ -1,4 +1,6 @@
-![Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Action Status](https://github.com/allegheny-computer-science-203-s2021/activity4-donizk/workflows/main.yml/badge.svg)
+((https://github.com/allegheny-computer-science-203-s2021/activity4-donizk/actions)
+
 
 # cs203s2021-activity4
 
